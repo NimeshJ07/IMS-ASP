@@ -1,0 +1,24 @@
+D:\Projects\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.deps.json
+D:\Projects\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.csproj.AssemblyReference.cache
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.AssemblyInfoInputs.cache
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.AssemblyInfo.cs
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.csproj.CoreCompileInputs.cache
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\refint\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\Projects\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\ref\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.deps.json
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.csproj.AssemblyReference.cache
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.AssemblyInfoInputs.cache
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.AssemblyInfo.cs
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.csproj.CoreCompileInputs.cache
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\refint\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\ASP NET\IMSApplication\IMSAppliaction.Model\obj\Debug\net8.0\ref\IMSAppliaction.Model.dll

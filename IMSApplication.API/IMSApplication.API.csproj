@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IMSApllication.Data\IMSApplication.Data.csproj" />
+    <ProjectReference Include="..\IMSApllication.IRespository\IMSApplication.IRespository.csproj" />
+    <ProjectReference Include="..\IMSApplication.DTO\IMSApplication.DTO.csproj" />
+    <ProjectReference Include="..\IMSApplication.IServices\IMSApplication.IServices.csproj" />
+    <ProjectReference Include="..\IMSApplication.Respository\IMSApplication.Respository.csproj" />
+    <ProjectReference Include="..\IMSApplication.Services\IMSApplication.Services.csproj" />
+  </ItemGroup>
+
+</Project>

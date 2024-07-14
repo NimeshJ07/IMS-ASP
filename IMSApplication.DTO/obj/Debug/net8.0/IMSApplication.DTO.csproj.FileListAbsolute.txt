@@ -1,0 +1,22 @@
+D:\Projects\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.deps.json
+D:\Projects\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.dll
+D:\Projects\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.pdb
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.AssemblyInfoInputs.cache
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.AssemblyInfo.cs
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.dll
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\refint\IMSApplication.DTO.dll
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.pdb
+D:\Projects\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\ref\IMSApplication.DTO.dll
+D:\ASP NET\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.deps.json
+D:\ASP NET\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.dll
+D:\ASP NET\IMSApplication\IMSApplication.DTO\bin\Debug\net8.0\IMSApplication.DTO.pdb
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.AssemblyInfoInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.AssemblyInfo.cs
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.csproj.CoreCompileInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.dll
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\refint\IMSApplication.DTO.dll
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\IMSApplication.DTO.pdb
+D:\ASP NET\IMSApplication\IMSApplication.DTO\obj\Debug\net8.0\ref\IMSApplication.DTO.dll

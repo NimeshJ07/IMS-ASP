@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP NET\\IMSApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F26182-B55E-443D-B554-643FB520BC8D}|IMSApplication.Respository\\IMSApplication.Respository.csproj|d:\\asp net\\imsapplication\\imsapplication.respository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F26182-B55E-443D-B554-643FB520BC8D}|IMSApplication.Respository\\IMSApplication.Respository.csproj|solutionrelative:imsapplication.respository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F26182-B55E-443D-B554-643FB520BC8D}|IMSApplication.Respository\\IMSApplication.Respository.csproj|d:\\asp net\\imsapplication\\imsapplication.respository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F26182-B55E-443D-B554-643FB520BC8D}|IMSApplication.Respository\\IMSApplication.Respository.csproj|solutionrelative:imsapplication.respository\\orderdetailsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|d:\\asp net\\imsapplication\\imsapplication.iservices\\iorderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|solutionrelative:imsapplication.iservices\\iorderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62ACA5E-077B-493B-8893-2CD4B93D475C}|IMSApplication.Services\\IMSApplication.Services.csproj|d:\\asp net\\imsapplication\\imsapplication.services\\orderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62ACA5E-077B-493B-8893-2CD4B93D475C}|IMSApplication.Services\\IMSApplication.Services.csproj|solutionrelative:imsapplication.services\\orderdetailsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|d:\\asp net\\imsapplication\\imsapplication.iservices\\iordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|solutionrelative:imsapplication.iservices\\iordersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6412F17C-0BE7-474F-95B2-E1CB18F957F4}|IMSApplication.DTO\\IMSApplication.DTO.csproj|d:\\asp net\\imsapplication\\imsapplication.dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6412F17C-0BE7-474F-95B2-E1CB18F957F4}|IMSApplication.DTO\\IMSApplication.DTO.csproj|solutionrelative:imsapplication.dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\migrations\\20240714113532_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\migrations\\20240714113532_all.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|d:\\asp net\\imsapplication\\imsappliaction.model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|solutionrelative:imsappliaction.model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88498F69-BD55-4081-A109-73A21E736E9A}|IMSApllication.Data\\IMSApplication.Data.csproj|d:\\asp net\\imsapplication\\imsapllication.data\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88498F69-BD55-4081-A109-73A21E736E9A}|IMSApllication.Data\\IMSApplication.Data.csproj|solutionrelative:imsapllication.data\\imsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|d:\\asp net\\imsapplication\\imsappliaction.model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|solutionrelative:imsappliaction.model\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|d:\\asp net\\imsapplication\\imsappliaction.model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D0B20C-FB02-4B2E-A0A5-9CA286B4FFF0}|IMSAppliaction.Model\\IMSAppliaction.Model.csproj|solutionrelative:imsappliaction.model\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\imsapplication.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\imsapplication.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\migrations\\20240714105701_addorderdetailtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\migrations\\20240714105701_addorderdetailtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C62ACA5E-077B-493B-8893-2CD4B93D475C}|IMSApplication.Services\\IMSApplication.Services.csproj|d:\\asp net\\imsapplication\\imsapplication.services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C62ACA5E-077B-493B-8893-2CD4B93D475C}|IMSApplication.Services\\IMSApplication.Services.csproj|solutionrelative:imsapplication.services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|d:\\asp net\\imsapplication\\imsapplication.iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8D813F9-F476-473E-8D1A-7D421D5640C4}|IMSApplication.IServices\\IMSApplication.IServices.csproj|solutionrelative:imsapplication.iservices\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|d:\\asp net\\imsapplication\\imsapplication.api\\migrations\\20240714110326_addorderdetailtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269FD3AF-4BBB-4C3A-A881-7A4FA6C77756}|IMSApplication.API\\IMSApplication.API.csproj|solutionrelative:imsapplication.api\\migrations\\20240714110326_addorderdetailtable1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderDetailsServices.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IOrderDetailsServices.cs",
+              "RelativeDocumentMoniker": "IMSApplication.IServices\\IOrderDetailsServices.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IOrderDetailsServices.cs",
+              "RelativeToolTip": "IMSApplication.IServices\\IOrderDetailsServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:20:07.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrdersServices.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IOrdersServices.cs",
+              "RelativeDocumentMoniker": "IMSApplication.IServices\\IOrdersServices.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IOrdersServices.cs",
+              "RelativeToolTip": "IMSApplication.IServices\\IOrdersServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:20:05.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "IMSApplication.API\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIA8wB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:01:17.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240714113532_All.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714113532_All.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Migrations\\20240714113532_All.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714113532_All.cs",
+              "RelativeToolTip": "IMSApplication.API\\Migrations\\20240714113532_All.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:35:32.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.Respository\\Repository.cs",
+              "RelativeDocumentMoniker": "IMSApplication.Respository\\Repository.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.Respository\\Repository.cs",
+              "RelativeToolTip": "IMSApplication.Respository\\Repository.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:45:52.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailsRepository.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.Respository\\OrderDetailsRepository.cs",
+              "RelativeDocumentMoniker": "IMSApplication.Respository\\OrderDetailsRepository.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.Respository\\OrderDetailsRepository.cs",
+              "RelativeToolTip": "IMSApplication.Respository\\OrderDetailsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:45:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetailsDto.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.DTO\\OrderDetailsDto.cs",
+              "RelativeDocumentMoniker": "IMSApplication.DTO\\OrderDetailsDto.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.DTO\\OrderDetailsDto.cs",
+              "RelativeToolTip": "IMSApplication.DTO\\OrderDetailsDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:09:59.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailsServices.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.Services\\OrderDetailsServices.cs",
+              "RelativeDocumentMoniker": "IMSApplication.Services\\OrderDetailsServices.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.Services\\OrderDetailsServices.cs",
+              "RelativeToolTip": "IMSApplication.Services\\OrderDetailsServices.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:17:32.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMSDbContext.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApllication.Data\\IMSDbContext.cs",
+              "RelativeDocumentMoniker": "IMSApllication.Data\\IMSDbContext.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApllication.Data\\IMSDbContext.cs",
+              "RelativeToolTip": "IMSApllication.Data\\IMSDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:52:51.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "IMSAppliaction.Model\\OrderDetail.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\OrderDetail.cs",
+              "RelativeToolTip": "IMSAppliaction.Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:02:38.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240714110326_AddOrderDetailTable1.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714110326_AddOrderDetailTable1.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Migrations\\20240714110326_AddOrderDetailTable1.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714110326_AddOrderDetailTable1.cs",
+              "RelativeToolTip": "IMSApplication.API\\Migrations\\20240714110326_AddOrderDetailTable1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:03:26.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\Products.cs",
+              "RelativeDocumentMoniker": "IMSAppliaction.Model\\Products.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\Products.cs",
+              "RelativeToolTip": "IMSAppliaction.Model\\Products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:06:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\Orders.cs",
+              "RelativeDocumentMoniker": "IMSAppliaction.Model\\Orders.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSAppliaction.Model\\Orders.cs",
+              "RelativeToolTip": "IMSAppliaction.Model\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:24:28.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "IMSApplication.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T11:33:06.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMSApplication.API.http",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\IMSApplication.API.http",
+              "RelativeDocumentMoniker": "IMSApplication.API\\IMSApplication.API.http",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\IMSApplication.API.http",
+              "RelativeToolTip": "IMSApplication.API\\IMSApplication.API.http",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-14T11:02:03.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240714105701_AddOrderDetailTable.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714105701_AddOrderDetailTable.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Migrations\\20240714105701_AddOrderDetailTable.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Migrations\\20240714105701_AddOrderDetailTable.cs",
+              "RelativeToolTip": "IMSApplication.API\\Migrations\\20240714105701_AddOrderDetailTable.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T10:57:01.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "IMSApplication.Services\\UserServices.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.Services\\UserServices.cs",
+              "RelativeToolTip": "IMSApplication.Services\\UserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:42:07.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IUserServices.cs",
+              "RelativeDocumentMoniker": "IMSApplication.IServices\\IUserServices.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.IServices\\IUserServices.cs",
+              "RelativeToolTip": "IMSApplication.IServices\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:41:51.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IMSApplication.API\\appsettings.json",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\appsettings.json",
+              "RelativeToolTip": "IMSApplication.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T16:41:13.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Program.cs",
+              "RelativeDocumentMoniker": "IMSApplication.API\\Program.cs",
+              "ToolTip": "D:\\ASP NET\\IMSApplication\\IMSApplication.API\\Program.cs",
+              "RelativeToolTip": "IMSApplication.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:41:09.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

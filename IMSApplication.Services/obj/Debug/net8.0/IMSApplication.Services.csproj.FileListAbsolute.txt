@@ -1,0 +1,48 @@
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.csproj.AssemblyReference.cache
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.AssemblyInfoInputs.cache
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.AssemblyInfo.cs
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.csproj.CoreCompileInputs.cache
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.deps.json
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Data.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IServices.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Respository.dll
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IServices.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Respository.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Data.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSAppli.AC8047A0.Up2Date
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.dll
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\refint\IMSApplication.Services.dll
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.pdb
+D:\Projects\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\ref\IMSApplication.Services.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.csproj.AssemblyReference.cache
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.AssemblyInfoInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.AssemblyInfo.cs
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.csproj.CoreCompileInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\refint\IMSApplication.Services.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSApplication.Services.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.deps.json
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Services.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Data.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IServices.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Respository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IServices.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Respository.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.Data.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\IMSAppli.AC8047A0.Up2Date
+D:\ASP NET\IMSApplication\IMSApplication.Services\obj\Debug\net8.0\ref\IMSApplication.Services.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.DTO.dll
+D:\ASP NET\IMSApplication\IMSApplication.Services\bin\Debug\net8.0\IMSApplication.DTO.pdb

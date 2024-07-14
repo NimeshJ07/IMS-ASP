@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IMSApplication.DTO\IMSApplication.DTO.csproj" />
+    <ProjectReference Include="..\IMSApplication.IServices\IMSApplication.IServices.csproj" />
+    <ProjectReference Include="..\IMSApplication.Respository\IMSApplication.Respository.csproj" />
+  </ItemGroup>
+
+</Project>

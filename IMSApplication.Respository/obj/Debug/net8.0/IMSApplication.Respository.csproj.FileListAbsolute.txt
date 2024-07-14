@@ -1,0 +1,38 @@
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.csproj.AssemblyReference.cache
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.AssemblyInfoInputs.cache
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.AssemblyInfo.cs
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.csproj.CoreCompileInputs.cache
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.deps.json
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.pdb
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Data.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Data.pdb
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\Projects\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSAppli.5261EBF3.Up2Date
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\refint\IMSApplication.Respository.dll
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.pdb
+D:\Projects\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\ref\IMSApplication.Respository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.deps.json
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Respository.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Data.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.Data.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Respository\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.csproj.AssemblyReference.cache
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.AssemblyInfoInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.AssemblyInfo.cs
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.csproj.CoreCompileInputs.cache
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSAppli.5261EBF3.Up2Date
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\refint\IMSApplication.Respository.dll
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\IMSApplication.Respository.pdb
+D:\ASP NET\IMSApplication\IMSApplication.Respository\obj\Debug\net8.0\ref\IMSApplication.Respository.dll

@@ -1,0 +1,30 @@
+D:\Projects\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.deps.json
+D:\Projects\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\Projects\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\Projects\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\Projects\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.csproj.AssemblyReference.cache
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.AssemblyInfoInputs.cache
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.AssemblyInfo.cs
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.csproj.CoreCompileInputs.cache
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSAppli.D53B1EA2.Up2Date
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.dll
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\refint\IMSApplication.IRespository.dll
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\Projects\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\ref\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\refint\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.deps.json
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.dll
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSApplication.IRespository.pdb
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSAppliaction.Model.dll
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\bin\Debug\net8.0\IMSAppliaction.Model.pdb
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.csproj.AssemblyReference.cache
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.AssemblyInfoInputs.cache
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.AssemblyInfo.cs
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSApplication.IRespository.csproj.CoreCompileInputs.cache
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\IMSAppli.D53B1EA2.Up2Date
+D:\ASP NET\IMSApplication\IMSApllication.IRespository\obj\Debug\net8.0\ref\IMSApplication.IRespository.dll
